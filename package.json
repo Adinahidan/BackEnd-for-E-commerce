@@ -1,4 +1,19 @@
 {
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "Back-end for an e-commerce website using Express.js API to use Sequelize to interact with a MySQL database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/index.js",
+    "watch": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+
   "dependencies": {
     "dotenv": "^16.3.1",
     "mysql2": "^3.5.0",
