@@ -32,6 +32,9 @@ npm start
 - Retrieve formatted JSON data for categories, products, and tags.
 - Built with the latest technologies and follows RESTful API architecture.
 
+## Demo
+Link to the walkthrough video: https://drive.google.com/file/d/1-uBg1p7HLg2qnBDKiMsGJ1wluy1lvIlw/view
+
 ## Technologies
 - Express.js
 - Sequelize
